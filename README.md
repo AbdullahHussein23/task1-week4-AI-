@@ -2,7 +2,7 @@
 
 1-ندخل على موقع the construct ونفتح مشروع جديد ثم نلصق ال Dependencies التالية اللي موجودة في github شركة الاساليب الذكية على ال terminal:
 
-sudo apt-get update && sudo apt-get install -y \
+    sudo apt-get update && sudo apt-get install -y \
 
      ros-humble-joint-state-publisher-gui \
      
